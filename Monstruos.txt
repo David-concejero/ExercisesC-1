@@ -1,0 +1,7 @@
+Roz; 8; 2.5
+Boo; 2; 1.2
+Mike Wazowski; 1; 0.5
+James P. Sullivan; 4; 3.4
+Randall Boggs; 10; 0.7
+El Sr. Waternoose; 9; 4.6
+Celia Mae; 3; 1.9
